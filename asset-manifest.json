@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/CRUD-Ap-Using-React-js/static/css/main.abd64e84.css",
-    "main.js": "/CRUD-Ap-Using-React-js/static/js/main.83703547.js",
-    "index.html": "/CRUD-Ap-Using-React-js/index.html",
-    "main.abd64e84.css.map": "/CRUD-Ap-Using-React-js/static/css/main.abd64e84.css.map",
-    "main.83703547.js.map": "/CRUD-Ap-Using-React-js/static/js/main.83703547.js.map"
+    "main.css": "/CRUD-App-Using-React-js/static/css/main.abd64e84.css",
+    "main.js": "/CRUD-App-Using-React-js/static/js/main.83703547.js",
+    "index.html": "/CRUD-App-Using-React-js/index.html",
+    "main.abd64e84.css.map": "/CRUD-App-Using-React-js/static/css/main.abd64e84.css.map",
+    "main.83703547.js.map": "/CRUD-App-Using-React-js/static/js/main.83703547.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
